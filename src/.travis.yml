@@ -12,6 +12,6 @@ deploy:
   skip_cleanup: true
   domain: psychotic-steel.surge.sh
   project: ./build/
-
+   
 on:
   branch: master
